@@ -23,3 +23,10 @@ public class decrementoperator {
         System.out.println("z: " + z); // z is 4
     }
 }
+// Output
+// After post-decrement:
+// x: 4
+// y: 5
+// After pre-decrement:
+// x: 4
+// z: 4
