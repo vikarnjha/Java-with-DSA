@@ -7,5 +7,9 @@ public class logicalComplementOperator {
 
         System.out.println("The value of isTrue: " + isTrue);
         System.out.println("The value of isFalse: " + isFalse);
+
+        // Output
+        // The value of isTrue: true
+        // The value of isFalse: false
     }
 }
