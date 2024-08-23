@@ -1,5 +1,5 @@
 
-public class book {
+public class Book {
 
     private String title;
     private String author;
@@ -8,7 +8,7 @@ public class book {
     private int stockQuantity;
 
     // Constructor
-    public book(String title, String author, String isbn, double price, int stockQuantity) {
+    public Book(String title, String author, String isbn, double price, int stockQuantity) {
         this.title = title;
         this.author = author;
         this.isbn = isbn;
